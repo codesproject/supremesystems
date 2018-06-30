@@ -1,0 +1,134 @@
+.msp-cn-137-4 {
+    font-family: "Exo 2";
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 12px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #e5e5e5;
+    text-transform: uppercase;
+}
+
+.msp-cn-137-5 {
+    font-family: "Exo 2";
+    font-weight: 200;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #e5e5e5;
+    text-transform: uppercase;
+}
+
+.msp-cn-137-11 {
+    font-family: "Exo 2";
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 12px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #e5e5e5;
+    text-transform: uppercase;
+}
+
+.msp-cn-137-12 {
+    font-family: "Exo 2";
+    font-weight: 200;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #e5e5e5;
+    text-transform: uppercase;
+}
+
+.msp-cn-137-17 {
+    font-family: "Exo 2";
+    font-weight: normal;
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 12px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #e5e5e5;
+    text-transform: uppercase;
+}
+
+.msp-cn-137-18 {
+    font-family: "Exo 2";
+    font-weight: 200;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: normal;
+    white-space: nowrap;
+    color: #e5e5e5;
+    text-transform: uppercase;
+}
+
+.listedlines {
+
+line-height: 38px;
+    font-size: 13px;
+    font-weight: 500; }
+
+h1.h2.g-color-black.g-font-weight-600.mb-2 {
+        text-transform: uppercase;
+    color: #59a415 !important
+}
+
+.g-width-80x.g-bg-white.g-pos-rel.g-z-index-1.g-pa-30.g-mt-minus-50.mx-auto {
+    color: #156528;
+    border: 12px solid #9ed271d4;
+    background: #fbfbfb !important;
+}
+
+h2.h1.g-color-black.g-font-weight-600 {
+    /* color: #59a415 !important; */
+    font-weight: 200 !important;
+}
+
+section.container-fluid.g-py-100 {
+    background: #f2fbf4;
+}
+
+.g-bg-secondary.bgTrans {
+    /* background-color: #212121 !important; */
+    background-image: url(../img/bg-slide01.jpg);
+    color: #888e8a;
+}
+
+
+.g-bg-secondary.bgTrans div.row {
+        font-weight: 500;
+    font-size: 13px;
+}
+
+.g-bg-secondary.bgTrans div.row h2.h3.g-color-black.text-uppercase.mb-2 {
+    color: antiquewhite !important;
+}
+
+.g-bg-secondary.bgTrans div.row p.lead.mb-0 {
+    color: #c7c7c7;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+
+.g-bg-secondary.bgTrans div.row h3.h5.g-color-black.mb-20 {
+    color:#99bd79 !important
+}
+
+footer.g-bg-gray-dark-v1.g-color-white-opacity-0_8.g-py-20 {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+small.d-block.g-font-size-default.g-mr-10.g-mb-10.g-mb-0--md {
+    font-size: 12px !important;
+    font-weight: 500;
+}
